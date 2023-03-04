@@ -1,0 +1,15 @@
+body{
+    background-image: url(https://thumbs.dreamstime.com/b/fondo-de-tierra-estilo-pixel-minecraft-concepto-horizontal-pixelado-del-suelo-juego-con-nube-sol-cielo-azul-vector-ilustraci%C3%B3n-212305683.jpg);
+    background-size: cover;
+    background-position: center;
+    position: center;
+    cursor:pointer;
+    text-align: center;
+}
+
+#milienzo{
+    border-width:10px;
+    background-color: white;
+    border-style:ridge;
+    align-items: center;
+}
